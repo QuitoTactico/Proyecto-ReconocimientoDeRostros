@@ -3,7 +3,10 @@ import os
 import imutils
 
 # Poner ruta de la carpeta
-personPath = 'C:/Users/Aleja/Documents/Code/Recon/Nico'
+personName = 'Nico'
+# Poner ruta del proyecto mas una carpeta llamada Data
+dataPath = 'C:/Users/Aleja/Documents/Code/Recon/Data'
+personPath = dataPath + '/' + personName
 ################################################################
 
 if not os.path.exists(personPath):
