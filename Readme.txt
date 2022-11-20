@@ -1,4 +1,4 @@
-Proyecto final para Datos y Algoritmos 2
+# Proyecto final para Datos y Algoritmos 2
 Reconocimiento de Rostros
 
 Hecho por:
